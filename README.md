@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a junior dev currently studying web dev! 
-If you found this profile, you probably know me in real life!
+If you found this profile, you probably know me in real life and don't need much more info!
 
 ![](https://komarev.com/ghpvc/?username=BettaSplendid&style=for-the-badge)
 <!--
