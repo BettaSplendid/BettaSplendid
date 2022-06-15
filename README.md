@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+I am a junior dev currently studying web dev! 
+If you found this profile, you probably know me in real life!
+
 ![](https://komarev.com/ghpvc/?username=BettaSplendid&style=for-the-badge)
 <!--
 **BettaSplendid/BettaSplendid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
