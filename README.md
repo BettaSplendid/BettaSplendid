@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a junior dev currently studying web dev! 
+I am a junior dev currently studying full stack dev things, until I get to specialize! 
 If you found this profile, you probably know me in real life and don't need much more info!
 
 ![](https://komarev.com/ghpvc/?username=BettaSplendid&style=for-the-badge)
